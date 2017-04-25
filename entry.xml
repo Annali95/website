@@ -1,0 +1,689 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<init>
+		<imgpath_people>image/people/</imgpath_people>
+		<imgpath_works>image/work/</imgpath_works>
+	</init>
+	<people>
+		<selector>			<category>			
+	<title>.</title>				
+<keyword>.</keyword>				
+<keyword>Associate Professor</keyword>			
+	<keyword>Studio Stuff</keyword>				
+<keyword>Lecturer</keyword>			</category>			
+<category>				
+<title>.</title>				
+<keyword>Ex-Student</keyword>			
+</category>			
+<category>				
+<title>.</title>				
+<keyword>Student</keyword>			
+</category>		
+</selector>
+		<people id="1">
+			<picture>small/f01.jpg</picture>
+			<picture_large>large/f01.jpg</picture_large>
+			<name>MAYO</name>
+			<name_ja>人造鸡蛋</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>由美国旧金山一家公司研发的“人造鸡蛋”最近光明正大地摆在了超市的货架上。该公司未来还计划与麦当劳、肯德基等连锁快餐集团合作，这种鸡蛋最早可能会在明年初进入中国市场。这些“人造鸡蛋”装在玻璃瓶里，就像牛奶一样。 目前已通过美国全国连锁超市Whole Foods进入当地市场</description>
+			<works>
+				<work>
+					<linkid>1</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="2">
+			<picture>small/f02.jpg</picture>
+			<picture_large>large/f02.jpg</picture_large>
+			<name>The cloak</name>
+			<name_ja>隐身衣</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>隐形衣以前只是在幻想小说里才能出现，如今科学家正在进行大胆尝试，研制真正的隐形衣，当然，这种隐形衣还不能让詹姆斯•T•柯克船长的罗穆兰太空船隐藏起来，也不能让哈利•波特遁形，(哈利波特的隐形斗篷是存在的，小而坚硬物体可能还勉强能实现隐形，但是想要实现可折叠巫师身材大小的隐形斗篷也只能出现在科幻小说里。)但这是一个意义重大的开始，而且为更加先进的设计铺平了道路。在第一次进行的成功试验中，来自美国和英国的研究人员把一根铜柱隐藏了起来。</description>
+			<works>
+				<work>
+					<linkid>2</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="3">
+			<picture>small/f03.jpg</picture>
+			<picture_large>large/f03.jpg</picture_large>
+			<name>Mobile phone watch</name>
+			<name_ja>手机手表</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>手表手机是外观类似手表的一种小巧新奇手机，通常戴在手腕上。虽然外观是手表，但手机的功能都已具备，常见功能有：接打电话，收发短信（彩信），通讯录，情景模式设置，拍照，录音，FM收音机，闹钟，电子书，相册，蓝牙，免提等，娱乐方面一般都支持mp3音乐，mp4电影播放。</description>
+			<works>
+				<work>
+					<linkid>3</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="4">
+			<picture>small/f04.jpg</picture>
+			<picture_large>large/f04.jpg</picture_large>
+			<name>3Doodler</name>
+			<name_ja>3D画笔</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>13D涂鸦笔在“笔尖”整合了3D打印机的“打印端”技术。使用者可以在任何物体表面或者空间上“写出”3D物体模型。不过，既然它名为“涂鸦笔”，“写出”的东西肯定不如3D打印机逼真、精确，但也可以满足用户感受3D打印技术的需求。
+人们可以用这支笔在空中任意涂画，勾勒出各种逼真模型。你只需拿着笔在空中移动（与日本动漫多拉a梦中的空气笔极为相同，别多拉谜们称空气笔），就可以构造美观立体模型。</description>
+			<works>
+				<work>
+					<linkid>4</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="5">
+			<picture>small/f05.jpg</picture>
+			<picture_large>large/f05.jpg</picture_large>
+			<name>Airnergy Charger</name>
+			<name_ja>wifi信号充电器</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>美国杜克大学普莱特工程学院的学生亚历山大-卡特克和艾伦-霍克斯研制的一种神奇的装置，能够捕获微波并将其转化成电流。这种能量收集器已经成功测试。研究人员指出这种装置可以改造，在将来的某一天利用Wi-Fi信号给手机充电。借助于这种装置，手机只需连接Wi-Fi网络便可充电，无需使用充电器或者电源。库姆默表示：“我们的研究显示一种简单而低廉的方式收集电磁能。这一设计的优势在于基本构架是自持的并且可添加，易于安装更多组件，提高收集能量的效率。”</description>
+			<works>
+				<work>
+					<linkid>5</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="6">
+			<picture>small/f06.jpg</picture>
+			<picture_large>large/f06.jpg</picture_large>
+			<name>Shuttle car</name>
+			<name_ja>可以飞行的汽车</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>两人座的Transition三月已在纽约首航，它的机翼折叠起来，即是一辆前轮驱动的汽车，在高速公路上行驶，时速可达65英里，每加仑普通无铅汽油可使其行驶30英里。
+一旦Transition到达适合起飞的地点，如机场或足够大的平坦私人场地，以电力控制的机翼可在30秒内展开，并启动后方的螺旋浆起飞。它在空中飞行的时速是115英里，加一次油可飞行400英里，载重为450磅。它起飞需要1700英尺长的跑道，可以停放在一个标准的车库内[3]。
+</description>
+			<works>
+				<work>
+					<linkid>6</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="7">
+			<picture>small/f07.jpg</picture>
+			<picture_large>large/f07.jpg</picture_large>
+			<name>Varangian</name>
+			<name_ja>辽宁号航母</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>辽宁号航空母舰，简称“辽宁舰”，舷号16，是中国人民解放军海军第一艘可以搭载固定翼飞机的航空母舰。前身是苏联海军的库兹涅佐夫元帅级航空母舰2号舰瓦良格号。2013年9月25日，辽宁舰迎来交接入列一周年的日子，短短一年的时间，辽宁舰先后完成了舰载机连续起降、驻舰飞行、短距滑跃起飞等试验，以令世界惊讶的速度稳步推进各项试验和训练。</description>
+			<works>
+				<work>
+					<linkid>7</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="8">
+			<picture>small/f08.jpg</picture>
+			<picture_large>large/f08.jpg</picture_large>
+			<name>Google glasses</name>
+			<name_ja>谷歌眼镜</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>谷歌眼镜（Project Glass）是谷歌公司于2012年研制的一款智能电子设备，具有网上冲浪、电话通讯和读取文件的功能，可以代替智能手机和笔记本电脑的作用。</description>
+			<works>
+				<work>
+					<linkid>8</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="9">
+			<picture>small/f09.jpg</picture>
+			<picture_large>large/f09.jpg</picture_large>
+			<name>Colorful shower nozzle</name>
+			<name_ja>彩色沐浴喷头</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>给力的发光喷头：温度低于90华氏度(32.2摄氏度)的时候发出绿光,告诉你水有点凉;91-106华氏度(41摄氏度)变成蓝光和深蓝光;107-113华氏度(45摄氏度)灯光变为温暖的紫色;113华氏度以上,变为预警的红色,你要小心了。</description>
+			<works>
+				<work>
+					<linkid>9</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="10">
+			<picture>small/f10.jpg</picture>
+			<picture_large>large/f10.jpg</picture_large>
+			<name>Portable folding washing machine</name>
+			<name_ja>便携式折叠洗衣机</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>个性洗衣机，折叠便携洗衣机，这可真够便携的可怜，旅行必备啊。洗洗内裤、袜子之类的玩意，倒是很安逸的。不过夏天的话，洗个短袖也是应该的。再厚的衣服的话，恐怕会把机器撑爆了。</description>
+			<works>
+				<work>
+					<linkid>10</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="11">
+			<picture>small/f11.jpg</picture>
+			<picture_large>large/f11.jpg</picture_large>
+			<name>Loc8tor</name>
+			<name_ja>失物探测器</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>多年以来，人们都希望能尽快找回丢失的物品。现在，你可以把能发射无线电频率的标签贴在最易丢失的物品上。当某样东西丢失后，打开遥控器，它会为你指引正确的方向——不仅仅是左右，还有上下。当它在丢失物品的附近时，标签自身就会发出嘟嘟声。 </description>
+			<works>
+				<work>
+					<linkid>11</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="12">
+			<picture>small/f12.jpg</picture>
+			<picture_large>large/f12.jpg</picture_large>
+			<name>3Dprinter</name>
+			<name_ja>3D打印机</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>它不需要在工厂操作，桌面打印机可以打印出小物品， 而且，人们可以将其放在办公室一角、商店甚至房子里；而自行车车架、汽车方向盘甚至飞机零件等大物品，则需要更大的打印机和更大的放置空间。3D打印技术最突出的优点是无需机械加工或任何模具，就能直接从计算机图形数据中生成任何形状的零件，从而极大地缩短产品的研制周期，提高生产率和降低生产成本</description>
+			<works>
+				<work>
+					<linkid>12</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="13">
+			<picture>small/f13.jpg</picture>
+			<picture_large>large/f13.jpg</picture_large>
+			<name>Kinect</name>
+			<name_ja>会移动的垃圾桶</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>起身把吃完零食的包装纸丢垃圾桶里，或许是一个很漫不经心的动作，可是对于一天24小时都窝在床上玩电脑不愿挪动的超级懒人来说，这几乎是不可能的任务。我们不知道日本技术宅FRP是不是这种类型，但他用Kinect实现的能追捕你手中扔出垃圾的垃圾桶，显然能满足这类人的要求。</description>
+			<works>
+				<work>
+					<linkid>13</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="14">
+			<picture>small/f14.jpg</picture>
+			<picture_large>large/f14.jpg</picture_large>
+			<name>Auto repair cellphone case</name>
+			<name_ja>自修复的iphone壳</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>近日，日产跨行业推出了一个新玩意儿——iPhone的外壳，它拥有一项独特的技术，能够让外壳受到轻微划伤的时候自动进行漆面愈合，让使用者可以不用总因为外壳损坏而更换。一般的细微划痕在一个小时内就可以自动修复，严重划痕可能在一周左右时间恢复。</description>
+			<works>
+				<work>
+					<linkid>14</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="15">
+			<picture>small/f15.jpg</picture>
+			<picture_large>large/f15.jpg</picture_large>
+			<name>Xperia Pureness</name>
+			<name_ja>透明屏幕手机</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>说实话，如果不是这块屏幕，Xperia Pureness真像是一台200元人民币的最底端手机，单色屏幕，没有摄像头，没有3G。产品的包装上就明确标注着它的三大功能：通话、短信和计时。即使算上FM收音机、简单的音乐播放器和WAP浏览器，你也绝难把它和一款高端手机联系到一起。就像它的名字一样,这是一款“纯粹的手机”。</description>
+			<works>
+				<work>
+					<linkid>15</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="16">
+			<picture>small/f16.jpg</picture>
+			<picture_large>large/f16.jpg</picture_large>
+			<name>Makoto Kobayashi</name>
+			<name_ja>无针注射器</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>在大获成功的科幻影片系列《星际迷航》中，太空船医务官伦纳德-麦考伊用一种无针注射装置治疗伤员。北京时间5月30日消息，科学家研发出一种无需针头就能注射药物的新方法。</description>
+			<works>
+				<work>
+					<linkid>16</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="17">
+			<picture>small/f17.jpg</picture>
+			<picture_large>large/f17.jpg</picture_large>
+			<name>Looxcie</name>
+			<name_ja>耳机式微型摄像机</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>戴在耳朵上的微型摄像机：Looxcie
+如果你想看到这一切，并想把它记录下来，戴在耳朵上的微型摄像机Looxcie将是你的理想之选。这种摄像机是由一位想记录下来孩子们的派对的父亲发明的。</description>
+			<works>
+				<work>
+					<linkid>17</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="18">
+			<picture>small/f18.jpg</picture>
+			<picture_large>large/f18.jpg</picture_large>
+			<name>Square</name>
+			<name_ja>自助刷卡系统</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>可能没有一项技术像收款机那样需要马上进行升级。进入Square，你会看到一个由Twitter联合创始人杰克-多西开发的支付平台。</description>
+			<works>
+				<work>
+					<linkid>18</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="19">
+			<picture>small/f19.jpg</picture>
+			<picture_large>large/f19.jpg</picture_large>
+			<name>Martin Jetpack</name>
+			<name_ja>私人飞行背包</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>自巴克·罗杰斯以来，对未来交通工具的所有描述都包括喷气背包，所以，我们中有谁会去“招惹”一个发明习惯？马丁喷气背包的自我定位是世界上第一款实用的喷气背包——仿佛它就像是空中“速易洁”(清洁产品品牌)。新西兰设计师格伦·马丁花费近30年心血发明了这款喷气背包，作为得到验证但不实用的贝尔火箭带的替代品。贝尔火箭带最早在1961年亮相。 </description>
+			<works>
+				<work>
+					<linkid>19</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="20">
+			<picture>small/f20.jpg</picture>
+			<picture_large>large/f20.jpg</picture_large>
+			<name>Edison2</name>
+			<name_ja>史上最轻巧汽车</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>也许使一辆车更省燃料的最简单方法，就是让它更轻巧。Edison2概念车的设计者在这方面的尝试已经达到极致。该车的重量不足800磅(362.87公斤)，每加仑燃料可行驶102.5英里(164.96公里)。</description>
+			<works>
+				<work>
+					<linkid>20</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="21">
+			<picture>small/f21.jpg</picture>
+			<picture_large>large/f21.jpg</picture_large>
+			<name>Power Aware Cord</name>
+			<name_ja>透明电线</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>我们都希望自己的生活方式更节能。但是，光看仪器表很难知道能量在每分钟的使用情况。探索新技术与新设计的瑞典非营利机构 Interactive Institute想出了一个办法：如果你亲眼看到电流入机器中，那又会怎样？</description>
+			<works>
+				<work>
+					<linkid>21</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="22">
+			<picture>small/f22.jpg</picture>
+			<picture_large>large/f22.jpg</picture_large>
+			<name>Sugru</name>
+			<name_ja>万能橡皮泥</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>Sugru 硅橡胶看上去像是培乐多彩泥，但作用却似“超级胶水”。这种材料由设计师詹妮·杜尔奥伊蒂(Jane nídhulchaointigh)发明。她与科学家用了五年时间开发出一种十分柔软的材料，用于快速修补挂钩等日常生活用具，令其更好地工作。</description>
+			<works>
+				<work>
+					<linkid>22</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="23">
+			<picture>small/f23.jpg</picture>
+			<picture_large>large/f23.jpg</picture_large>
+			<name>ipad</name>
+			<name_ja>苹果平板电脑</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>在科技业的发明较量中，苹果如何保持领先地位呢？通常情况下，苹果会选择重新发明一款竞争对手已经放弃的产品。从理论上说，iPad只是不受消费者欢迎的微软Tablet PC的一种“延续”。但苹果却是第一家从无到有设计“手指友好型”硬件和软件的公司，而不是简单地往PC里塞进一个无键盘盒子。</description>
+			<works>
+				<work>
+					<linkid>23</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="24">
+			<picture>small/f24.jpg</picture>
+			<picture_large>large/f24.jpg</picture_large>
+			<name>Sony Alpha A55 Camera</name>
+			<name_ja>革命性的相机</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>传统数码单反相机虽然可以拍摄非常漂亮的照片，但它们遭受着一个持续数十年之久的技术障碍的困扰：当你拍摄照片时，使图像变向指向眼睛和对焦传感器的镜子，会在拍摄到照片的同时突然出现。在镜子复位以前，相机无法聚焦。</description>
+			<works>
+				<work>
+					<linkid>24</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="25">
+			<picture>small/f25.jpg</picture>
+			<picture_large>large/f25.jpg</picture_large>
+			<name>Vampire lamp</name>
+			<name_ja>吸血鬼灯</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>An American designer to invent a new lamp, the user can cut skin blood trickle out of which a chemical reaction can release the mysterious blue light. Vampire lamp is produced by a chemical reaction of the tablets, when mixing the blood will produce energy. On Thompson's website, he pointed out that the need to cut human skin vampire light, dissolved chemical powder and used as a raw material of human blood lit lights. By producing such a wonderful light, not only has the practical lighting, the user must be aware of when we need more lighting, you need to seriously reflect on how we are wasting energy, as well as their precious nature.</description>
+			<works>
+				<work>
+					<linkid>25</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="26">
+			<picture>small/f26.jpg</picture>
+			<picture_large>large/f26.jpg</picture_large>
+			<name>Deep Green</name>
+			<name_ja>水下风筝</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>瑞典公司Minesto開發的水下風箏在海流中俯衝、下潛時，看上去就像是孩子的玩具。但是，由於海水的密度是空氣的800倍，安裝在風箏上的小型渦輪機產生的能量就是在空中的800倍。</description>
+			<works>
+				<work>
+					<linkid>26</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="27">
+			<picture>small/f27.jpg</picture>
+			<picture_large>large/f27.jpg</picture_large>
+			<name>Lytro</name>
+			<name_ja>光场相机</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>Because the camera captures the entire light field information, then in addition to arbitrarily change of focus, move freely perspective has also become possible. As a result, the light field camera shot is a 3D scene, and people can choose whether they want to see the photos based on individual needs and preferences. But Lytro company also said that despite the current use of photographs is Lytro 3D, but the need to support the software level, Lytro software now offers 3D effect does not have the browse function.</description>
+			<works>
+				<work>
+					<linkid>27</linkid>
+				</work>
+			</works>
+		</people>
+		<people id="28">
+			<picture>small/f28.jpg</picture>
+			<picture_large>large/f28.jpg</picture_large>
+			<name>Remee</name>
+			<name_ja>可控制梦境眼罩</name_ja>
+			<type>.</type>
+			<lab>.</lab>
+			<description>据英国每日邮报报道，目前，美国纽约两位发明家最新设计一种睡眠眼罩，能够让人们控制清晰梦境，这与科幻电影《盗梦空间》中的情节颇为相似。
+</description>
+			<works>
+				<work>
+					<linkid>28</linkid>
+				</work>
+			</works>
+		</people>
+	</people>
+	<works>
+		<selector>
+			<category>
+				<title>.</title>
+				<keyword>.</keyword>
+			</category>
+			<category>
+				<title>.</title>
+				<keyword>Craft Object</keyword>
+				<keyword>Metal molding</keyword>
+			</category>
+			<category>
+				<title>.</title>
+				<keyword>Media Art</keyword>
+				<keyword>Movie</keyword>
+			</category>
+			<category>
+				<title>.</title>
+				<keyword>Painting</keyword>
+			</category>
+			<category>
+				<title>.</title>
+				<keyword>Textile</keyword>
+			</category>
+		</selector>
+		<work id="1">
+			<picture>small/w01.jpg</picture>
+			<n_largePic>4</n_largePic>
+			<name>MAYO</name>
+			<name_ja>人造鸡蛋</name_ja>
+			<category>.</category>
+			<description>有植物分子生物学指出，要造鸡蛋其实并不是件难事。因为鸡蛋就其本质来说，主要成分是蛋白质、脂肪、卵磷脂和少量胆固醇(蛋黄的成分)，而这些成分都是可以从植物中提取的。
+
+　　通过从植物中提取相应成分并加以一定比例的混合，我们就可以得到成分以至于口感都和鸡蛋相差无几的“人造鸡蛋”。不过这种“鸡蛋”不会有蛋黄蛋壳，初识时就是一堆粉末，经加水搅拌就像是把鸡蛋打碎后的蛋液。
+</description>
+		</work>
+		<work id="2">
+			<picture>small/w02.jpg</picture>
+			<n_largePic>4</n_largePic>
+			<name>The cloak</name>
+			<name_ja>隐身衣</name_ja>
+			<category>.</category>
+			<description>研究人员说，隐形衣试验中的现象就像是海市蜃楼一样，在海市蜃楼中，热量引起光线弯曲，隐去了天空中出现的影像后面延伸的道路。迪克大学电子与计算机工程系的副研究员、隐形衣的设计者大卫•舍里格说：“我们已经制成了一个人造海市蜃楼，可以隐藏一些东西，让观察者从任何地方都看不见。” 在首次尝试中，研究人员设计了一个外衣能够阻止探测到物体的微波。像光线和雷达波一样，微波遇到物体时通常会反射回来，所以仪器就会发现这种物体，形成一个可以探测到的影子。而隐形外衣使用的是一种特殊的材料，可以让雷达波或者光线或者其它的波绕过物体而不会反弹回来，就像是小河中的水流能够绕过一块平滑的岩石继续向前流去而不会反弹回来一样。</description>
+		</work>
+		<work id="3">
+			<picture>small/w03.jpg</picture>
+			<n_largePic>4</n_largePic>
+			<name>Mobile phone watch</name>
+			<name_ja>手机手表</name_ja>
+			<category>Architecture</category>
+			<description>第一款手表手机：由韩国三星公司在2001年初，最早开发出来手表式手机SPH-W10，当时引起轰动，但价格也较高，当时它算是最小最轻的无线终端，它的重量只有50g，大小为72×52×22mm。主要是由于创新的超小天线收发转换开关(duplexer)，才使得SPH-W10得以成功的出现。可以说它是无线通讯领域上一大突破。</description>
+		</work>
+		<work id="4">
+			<picture>small/w04.jpg</picture>
+			<n_largePic>4</n_largePic>
+			<name>3Doodler</name>
+			<name_ja>3D画笔</name_ja>
+			<category>.</category>
+			<description>3D涂鸦笔（3Doodler）利用塑料丝书写，并借助笔尖里的内置风扇，令塑料丝几乎是在瞬间冷却。这种现实版“神笔”有望在2013年晚些时候上市，该公司已经为艺术家提供了一些样机，让他们任意发挥，创作从3D动物到埃菲尔铁塔模型的一切东西</description>
+		</work>
+		<work id="5">
+			<picture>small/w05.jpg</picture>
+			<n_largePic>4</n_largePic>
+			<name>Airnergy Charger</name>
+			<name_ja>wifi信号充电器</name_ja>
+			<category>.</category>
+			<description>研制过程中，卡特克和霍克斯将5个玻璃纤维和铜能量导体安装到一个电路板上，形成所谓的超材料阵列。超材料是一种能够捕获不同形态波能的工程学结构。通过将确定材料——包括玻璃纤维、铜和金——排列成特定的形状和样式，这些材料的总体性能提升，变成超材料
+　　研究人员指出这种由5部分构成的超材料能够将波转化成7.3伏的电流，效率可达到36.8%。相比之下，用于手机和其他小装置的USB充电器的功率在5伏左右。</description>
+		</work>
+		<work id="6">
+			<picture>small/w06.jpg</picture>
+			<n_largePic>4</n_largePic>
+			<name>Shuttle car</name>
+			<name_ja>可以飞行的汽车</name_ja>
+			<category>.</category>
+			<description>在美国联邦航空管理局的分类下，轻型运动飞机最重为1320磅，但是总部在马萨诸塞州的Terrafugia公司发现，Transition在装上公路行驶安全设备，如安全气囊、防撞缓冲区、防滚架后，超重了120磅。但美国联邦航空管理局网开一面，仍批准其为轻型运动飞机，并表示只要告知消费者这些额外重量，这个飞车即可出售。而获得轻型运动飞机的驾照，只需20小时的飞行时间</description>
+		</work>
+		<work id="7">
+			<picture>small/w07.jpg</picture>
+			<n_largePic>3</n_largePic>
+			<name>Varangian</name>
+			<name_ja>辽宁号航母</name_ja>
+			<category>.</category>
+			<description>瓦良格号是作为一艘常规动力航母设计建造的。固然，核动力航母比常规航母拥有航程上的优越性，一般核动力航母三十年内不用更换核燃料，而常规航母航行一段时间后就需要补给燃料。加之核动力航母在动力设计上不需要占用太大空间，也省去了常规航母的烟道，节省了大量甲板空间，可以停放更多舰载机，所以核动力航母有很大优势。</description>
+		</work>
+		<work id="8">
+			<picture>small/w08.jpg</picture>
+			<n_largePic>1</n_largePic>
+			<name>Google glasses</name>
+			<name_ja>谷歌眼镜</name_ja>
+			<category>.</category>
+			<description>Google于2012年4月5日正式发布一个叫“Project Glass”的未来眼镜概念设计。这款眼镜将集智能手机、GPS、相机于一身，在用户眼前展现实时信息，只要眨眨眼就能拍照上传、收发短信、查询天气路况等操作。
+这个项目来源于Google最秘密的X实验室团队。根据其演示视频，通过眼睛对各种功能进行选择，但是具体实施貌似是通过语音来控制，这似乎显示Google的语音技术也比较成熟。</description>
+		</work>
+		<work id="9">
+			<picture>small/w09.jpg</picture>
+			<n_largePic>1</n_largePic>
+			<name>Color shower nozzle</name>
+			<name_ja>彩色沐浴喷头</name_ja>
+			<category>.</category>
+			<description>这个喷头比普通的喷头多加入了一个温度传感器，并且加入了多彩的灯光元素。</description>
+		</work>
+		<work id="10">
+			<picture>small/w10.jpg</picture>
+			<n_largePic>2</n_largePic>
+			<name>Portable folding washing machine</name>
+			<name_ja>便携式折叠洗衣机</name_ja>
+			<category>.</category>
+			<description>出外野营，衣服不好洗的确是件麻烦事，所以这样一个便携的洗衣机就显得非常重要了。与“软体冰箱”的原理类似，该款洗衣机的四壁采用软体设计，所以平时不用的时候可以收缩起来，方便携带。</description></work>
+		<work id="11">
+			<picture>small/w11.jpg</picture>
+			<n_largePic>2</n_largePic>
+			<name>Loc8tor</name>
+			<name_ja>失物探测器</name_ja>
+			<category>.</category>
+			<description>当用户用探测器向各个方向探测时，显示屏上显示的线条和探测器发出的声音会随着发生变化。目标物品显示的线条越来越长、声音越来越大，距离越来越远。该产品还具有备忘提醒功能。</description>
+		</work>
+		<work id="12">
+			<picture>small/w12.jpg</picture>
+			<n_largePic>2</n_largePic>
+			<name>3Dprinter</name>
+			<name_ja>3D打印机</name_ja>
+			<category>.</category>
+			<description>每一层的打印过程分为两步，首先在需要成型的区域喷洒一层特殊胶水，胶水液滴本身很小，且不易扩散。然后是喷洒一层均匀的粉末，粉末遇到胶水会迅速固化黏结，而没有胶水的区域仍保持松散状态。这样在一层胶水一层粉末的交替下，实体模型将会被“打印”成型，打印完毕后只要扫除松散的粉末即可“刨”出模型，而剩余粉末还可循环利用。</description>
+		</work>
+		<work id="13">
+			<picture>small/w13.jpg</picture>
+			<n_largePic>1</n_largePic>
+			<name>Kinect</name>
+			<name_ja>会移动的垃圾桶</name_ja>
+			<category>.</category>
+			<description>不得不承认，技术宅FRP的确在这件创作中，展现了令人惊叹的制作水准：完成所有代码，让Kinect摄像头监控整个房间，计算垃圾物体的飞行轨迹，并让垃圾桶移动到结果位置。实际使用中的收集率已经很不错了。不过FRP觉得它的准确率还是不够高。如果真的能再得以改进，变成商品，那就令懒死在床上的人拍手称快了。
+</description>
+		</work>
+		<work id="14">
+			<picture>small/w14.jpg</picture>
+			<n_largePic>2</n_largePic>
+			<name>Auto repair cellphone case</name>
+			<name_ja>自修复的iphone壳</name_ja>
+			<category>.</category>
+			<description>在部分日产和英菲尼迪的车型上都拥有“细微划伤自动愈合车漆”这项功能，它能够在车辆漆面出现轻微划伤的时候通过漆面涂料的化学反应来进行漆面的自动修复，还原初始那亮丽的漆面。而日产此次跨行业推出的这个iPhone外壳也是如此，它也植入了这项技术。</description>
+		</work>
+		<work id="15">
+			<picture>small/w15.jpg</picture>
+			<n_largePic>2</n_largePic>
+			<name>Xperia Pureness</name>
+			<name_ja>透明屏幕手机</name_ja>
+			<category>.</category>
+			<description>这支透明触控手机，正反两面都能使用，之后可望运用在智能手机上。据日媒报导，透明双面触控采用了画质鲜丽细腻的OLED屏幕，具有可正反面操作、透明和彩色等特点，无论在正面或是背面，都可以滚动、打开、关闭、滑动切换等。
+</description>
+		</work>
+		<work id="16">
+			<picture>small/w16.jpg</picture>
+			<n_largePic>1</n_largePic>
+			<name>Ring</name>
+			<name_ja>无针注射器</name_ja>
+			<category>.</category>
+			<description>这种注射器可用一种高速高压喷射器将药物透过皮肤注入体内。这种方法有朝一日可能会终结今天打针会疼的时代。</description>
+		</work>
+		<work id="17">
+			<picture>small/w17.jpg</picture>
+			<n_largePic>3</n_largePic>
+			<name>Looxcie</name>
+			<name_ja>耳机式微型摄像机</name_ja>
+			<category>.</category>
+			<description>它能录下用户看到的一切，录像时间长达5小时，而且不用手拿。通过按一个按钮，可以把持续30秒的录像片段发送到Facebook、YouTube或预置邮箱地址里，这使Looxcie成为音频-视频共享时代的完美杰作。
+</description>
+		</work>
+		<work id="18">
+			<picture>small/w18.jpg</picture>
+			<n_largePic>4</n_largePic>
+			<name>Square</name>
+			<name_ja>自主刷卡系统</name_ja>
+			<category>.</category>
+			<description>借助于装在智慧手机上的微型磁卡阅读器，Square能够让任何人处理信用卡。虽然不可能完全实现无纸化--很多人仍更喜欢用现金--但你至少不需要等着拿收条。用户只需在屏幕上签字，Square便会将一份副本直接发给用户的电子信箱。
+</description>
+		</work>
+		<work id="19">
+			<picture>small/w19.jpg</picture>
+			<n_largePic>3</n_largePic>
+			<name>Martin Jetpack</name>
+			<name_ja>私人飞行背包</name_ja>
+			<category>.</category>
+			<description>马丁喷气背包其实看上去并不实用：他将两个巨大的鼓风机焊接在一起，绑在安全带上面。但是，碳纤维合成材料框架里面有一台汽油燃料、200马力的发动机，驱动两台用碳纤维与凯夫拉尔纤维材料制造的转子。从理论上讲，马丁喷气背包可以将使用者送上距地面8000英尺(约合2430米)的高空。由于只能放下够飞30分钟的燃料，你当然不能在空中多做逗留。据悉，马丁喷气背包售价在10万美元左右，实地测试将从2011年开始。
+</description>
+		</work>
+		<work id="20">
+			<picture>small/w20.jpg</picture>
+			<n_largePic>4</n_largePic>
+			<name>Edison2</name>
+			<name_ja>史上最轻巧汽车</name_ja>
+			<category>.</category>
+			<description>它的性能足可以赢得进步保险X-汽车大奖，该奖旨在鼓励人们研发超省燃料的轻型汽车。然而不幸的是，Edison2队负责人奥利弗 库特内尔表示，不久的将来你还无法在经销商那里看到这款车。但这预示着节能汽车会有一个美好未来。
+</description>
+		</work>
+		<work id="21">
+			<picture>small/w21.jpg</picture>
+			<n_largePic>3</n_largePic>
+			<name>Power Aware Cord</name>
+			<name_ja>透明电线</name_ja>
+			<category>.</category>
+			<description>电量提醒线(Power Aware Cord)嵌入到电缆周围的金属丝上，提醒你当前电器在消耗多少电量。电流越多，蓝光越醒目、运行越快。研究人员在测试这款设备时，发现用醒目闪烁的光亮引起注意可以让用户改变坏习惯，促使他们关掉电源，同时还对电器设备有了更深入的了解。
+</description>
+		</work>
+		<work id="22">
+			<picture>small/w22.jpg</picture>
+			<n_largePic>3</n_largePic>
+			<name>Sugru</name>
+			<name_ja>万能橡皮泥</name_ja>
+			<category>.</category>
+			<description>Sugru矽橡膠能粘在從金屬到織物等一切東西上，提升它們的性能，比如令鞋子更舒適，拐角更柔軟，把手更易抓握。
+</description>
+		</work>
+		<work id="23">
+			<picture>small/w23.jpg</picture>
+			<n_largePic>2</n_largePic>
+			<name>ipad</name>
+			<name_ja>苹果平板电脑</name_ja>
+			<category>.</category>
+			<description>iPad的心脏是1GHzA4处理器。苹果为了延长电池使用寿命以及快速强大的性能对这种处理器进行了客户化设计。Gartner分析师MartinReynolds说，这些处理器在一个芯片上集成了一个ARM内核、一个图形加速器和外设。他们把这个芯片和DRAM内存集成在一个封装内。(苹果没有证实A4采用ARM内核，但是，专家普遍认为ARM最有可能是这种芯片的基础。)
+
+　　由于iPad没有多任务功能，这种新的系统芯片是很合适的。A4处理器就像是一个在单轨上运行的高速火车，而不是能够轻松处理城市交通和高速公路的汽车。它的设计不是智能管理多个应用程序和内存工作量，而是提供一个应用程序多需要的速度。</description>
+		</work>
+		<work id="24">
+			<picture>small/w24.jpg</picture>
+			<n_largePic>4</n_largePic>
+			<name>Sony Alpha A55 Camera</name>
+			<name_ja>革命性的相机</name_ja>
+			<category>.</category>
+			<description>索尼Alpha A55相机通过采用一个设计精巧、保持原位不动的半透明镜子一举解决了这个难题。这意味着，你可以在一秒钟内拍摄最多10张聚焦完美的照片，录制永远不会模糊的高清视频。除此之外，索尼Alpha A55相机还不需要为了活动镜而调整内部空间，因此，比其他索尼单反相机更小、更轻。
+</description>
+		</work>
+		<work id="25">
+			<picture>small/w25.jpg</picture>
+			<n_largePic>5</n_largePic>
+			<name>Vampire lamp</name>
+			<name_ja>吸血鬼灯</name_ja>
+			<category>.</category>
+			<description>一位美国设计师最新发明一种灯，使用者割破皮肤流出血液滴入其中，发生化学反应便能释放神秘蓝光。设计师迈克-汤普森(Mike Thompson)称，这种新颖的灯设计旨在让人们深思当前社会生活中随意性浪费行为。
+</description>
+		</work>
+		<work id="26">
+			<picture>small/w26.jpg</picture>
+			<n_largePic>6</n_largePic>
+			<name>Deep Grean</name>
+			<name_ja>水下风筝</name_ja>
+			<category>.</category>
+			<description>Minesto稱這項技術為“深綠”(Deep Green)，即便海面風平浪靜，它也能產生500 千瓦的能量。該公司表示，這一設計將使潮汐能市場增加80%。“深綠”水下風箏的第一個成比例模型將于明年在北愛爾蘭海岸附近揭開神秘面紗。
+</description>
+		</work>
+		<work id="27">
+			<picture>small/w27.jpg</picture>
+			<n_largePic>8</n_largePic>
+			<name>Lytro</name>
+			<name_ja>光场相机</name_ja>
+			<category>.</category>
+			<description>Lytro light field sensor is the camera's core technology, which can be collected into the camera at all wavelengths, intensity and direction of light, and then with the Lytro light field engine 1.0 technology, the use of such information into the computer adult eye can see images.</description>
+		</work>
+		<work id="28">
+			<picture>small/w28.jpg</picture>
+			<n_largePic>4</n_largePic>
+			<name>Remee</name>
+			<name_ja>可控制梦境眼罩</name_ja>
+			<category>.</category>
+			<description>这项发明被称为“雷梅(Remee)”，看上去像一个标准的眼罩，但事实上是一种特殊的快速眼动增强器，通过在人们睡眠时制造大脑意识，控制人们进入特定的清醒梦境。这项装置的设计目标是使人们有选择地进入梦境，例如：梦中开着赛车、在空中飞翔，或者与亚伯拉罕-林肯共进午餐。
+</description>
+		</work>
+	</works>
+</root>
